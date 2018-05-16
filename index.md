@@ -18,7 +18,3 @@ And of course I'll share some personal ancedotes too. This is a welcome to me, f
 
 
 
-
-```
-The final element.
-```
