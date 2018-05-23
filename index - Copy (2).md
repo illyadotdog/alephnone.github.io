@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+##  Hi, and welcome
+
+I'm still working on this but I intend to use it as a blog to discuss my many interests and hobbies.
+I'm a recent graduate with a Degree in Applied Mathematics. It's a very fancy piece of paper that qualifies me in the dark arts of data. 
+
+I'll probably use this blog to talk about the data and relationships between various things as this is primarily how I likve to explore my hobbies. Posts will primarily be focused on
+
+
+*   eSports, namely Overwatch
+*   Cosplay and costuming in general
+*   The datapoints that arise after trying to optimize every aspect of your daily life
+
+And of course I'll share some personal ancedotes too. This is a welcome to me, for you.
+
+
+

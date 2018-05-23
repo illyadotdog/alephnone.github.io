@@ -2,19 +2,19 @@
 layout: default
 ---
 
-##  Hi, and welcome
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-I'm still working on this but I intend to use it as a blog to discuss my many interests and hobbies.
-I'm a recent graduate with a Degree in Applied Mathematics. It's a very fancy piece of paper that qualifies me in the dark arts of data. 
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-I'll probably use this blog to talk about the data and relationships between various things as this is primarily how I likve to explore my hobbies. Posts will primarily be focused on
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-
-*   eSports, namely Overwatch
-*   Cosplay and costuming in general
-*   The datapoints that arise after trying to optimize every aspect of your daily life
-
-And of course I'll share some personal ancedotes too. This is a welcome to me, for you.
-
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
 
